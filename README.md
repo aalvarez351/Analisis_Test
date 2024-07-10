@@ -1,6 +1,5 @@
 # Analisis_Test
 
-https://t.me/+jQcN80ZdK8IyYjZh
 
 SERENITY Analisis testing interesante ejercicio para el conocimiento de la herramienta.  Con esfuerzo y dedicacion . se lograran grandes avances.  me hace pensar en otras actividades realizadas con anterioridad para el analisis de vulnerabilidades.
 ![img](https://i.imgur.com/Pp9Fa2T.jpg)
